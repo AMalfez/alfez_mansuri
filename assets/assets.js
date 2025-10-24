@@ -90,7 +90,13 @@ export const assets = {
 
 export const workData = [
     {
-        title: 'AlphFit',
+        title: 'AllThingsLife',
+        description: 'The Ultimate Lifestyle Platform',
+        bgImage: '/work-4.png',
+        link: 'https://allthingslife.vercel.app/'
+    },
+    {
+        title: 'AlphaFit',
         description: 'AI Fitness Web App',
         bgImage: '/work-2.png',
         link: 'https://alpha-fit-next.vercel.app/'
